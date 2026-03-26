@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	int x=4;
+	while (x<=40)
+	{
+		cout<<x<<endl;
+		x=x+4;
+	}
+
+}
